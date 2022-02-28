@@ -1,0 +1,12 @@
+input{
+
+  width: 393px;
+  height: 45px;
+  background: #FFFFFF;
+  border: 3px solid #7F2982;
+  box-sizing: border-box;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 14px auto 10px auto;
+  display: block;
+}
