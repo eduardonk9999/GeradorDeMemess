@@ -1,0 +1,3 @@
+# GeradorDeMemess
+Gere seu próprio meme, com seus próprios textos, nesse projeto feito em React, usando a API do MemeGenerator...
+
