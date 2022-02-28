@@ -5,7 +5,7 @@
 }
 body{
   background-image: url('../../assets/imgs/bg.png');
-  height: 100vh;
+  height: auto;
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -71,4 +71,17 @@ li {
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
   background: #555;
+}
+
+.MemeFinal {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.MemeFinal img {
+  width: 371px;
+    text-align: center;
+    margin: 50px auto 61px auto;
+    display: block;
+    box-shadow: 5px 10px 10px #0000004f;
 }
